@@ -1,5 +1,5 @@
 # Machine Learning Engineer Nanodegree
-# Reinforcement Learning
+# Deep Learning
 ## Project: Image Classification by Egor Ermilov
 
 ### Description
